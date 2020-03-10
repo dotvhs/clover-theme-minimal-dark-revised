@@ -1,4 +1,4 @@
-# minimal-dark clover theme
+# Flat, Dark & Minimal Clover Theme
 Dark version of minimal theme with a few tweaks for [the Clover UEFI bootloader](http://sourceforge.net/projects/cloverefiboot), based off [clover-theme-minimal by Alex James](https://github.com/al3xtjames/clover-theme-minimal) with revised icons from FontAwesome and flattened look.
 
 ![Screenshot of the theme](https://i.imgur.com/unmvZ0B.png)
