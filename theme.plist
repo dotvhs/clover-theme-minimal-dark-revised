@@ -55,7 +55,7 @@
 			<key>Big</key>
 			<string>selection_big.png</string>
 			<key>Color</key>
-			<string>0xFFFFFF80</string>
+			<string>0x232E44FF</string>
 			<key>OnTop</key>
 			<false/>
 			<key>Small</key>
@@ -63,6 +63,6 @@
 		</dict>
 	</dict>
 	<key>Year</key>
-	<string>2019</string>
+	<string>2020</string>
 </dict>
 </plist>
